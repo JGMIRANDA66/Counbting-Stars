@@ -1,6 +1,6 @@
 This is a poroject of counting stars from the sky using AI and image processing.
 
-pip install this guys to make it rruin on your PC:
+pip install this guys to make it run on your PC:
 
 Package                       Version    
 ----------------------------- -----------
@@ -89,4 +89,4 @@ wcwidth                       0.2.5
 zipp                          3.9.0      
 
 Best Regards
-Johnny Ripper
+Johnny
